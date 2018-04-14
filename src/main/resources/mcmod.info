@@ -1,0 +1,16 @@
+[
+{
+  "modid": "submitissue",
+  "name": "Submit Issue",
+  "description": "Adds just one command, submitissue to easily get to a mod's issue tracker.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://minecraft.curseforge.com/projects/submit-issues",
+  "updateUrl": "https://minecraft.curseforge.com/projects/submit-issues",
+  "authorList": ["Selim_042"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

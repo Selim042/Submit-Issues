@@ -1,1 +1,1 @@
-# Submit-Issues
+# Submit Issues
